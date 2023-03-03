@@ -1,0 +1,14 @@
+{
+  "version":2,
+  "id":3,
+  "name":"C",
+  "last_name":"CC",
+  "email":"@c",
+  "password":"pass3",
+  "following":[
+    {
+      "id":1,
+      "username":"theking"
+    }
+  ]
+}

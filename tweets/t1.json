@@ -1,0 +1,20 @@
+{
+  "id": "t1",
+  "message": "Tweet One",
+  "user": {
+    "id": 1,
+    "name": "A"
+  },
+  "created_at": 1677759975,
+  "likes": 2,
+  "liked_by": [
+    {
+      "id": 2,
+      "name": "B"
+    },
+    {
+      "id": 3,
+      "name": "C"
+    }
+  ]
+}
